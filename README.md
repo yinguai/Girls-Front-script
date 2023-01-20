@@ -2,7 +2,8 @@
 少女前线自动化脚本
 
 powered by airtest
-使用前请简单了解下怎么使用AirTest，推荐小白使用AirTestIDE：https://airtest.doc.io.netease.com/IDEdocs/getting_started/AirtestIDE_install/
+
+使用前请简单了解下怎么使用Airtest，推荐小白使用AirtestIDE：https://airtest.doc.io.netease.com/IDEdocs/getting_started/AirtestIDE_install/
 
 之后可能会考虑分离出来做成单独exe文件使用（画大饼~）
 
